@@ -15,8 +15,6 @@
 <a href="https://www.instagram.com/sagar_93_patel" target="blank"><img height="30" alt="instagram" src="https://raw.githubusercontent.com/psagar-dev/psagar-dev/refs/heads/main/images/instagram.svg"></a>
 </p>
 
-<hr/>
-
 <h3 align="left">🔥 Languages & Frameworks & Tools & Abilities 🔥</h3>
 
 <p>
