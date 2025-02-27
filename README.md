@@ -17,7 +17,7 @@
 
 <hr/>
 
-<h3 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h3>
+<h3 align="left">🔥 Languages & Frameworks & Tools & Abilities 🔥</h3>
 
 <p>
 <a href="https://www.php.net/" arget="blank"><img height="30" alt="php" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg"></a>
